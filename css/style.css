@@ -678,7 +678,7 @@ span.font {
 /*--//services--*/
 /*-- Experience--*/
 #experience{
-    background: #040005f6;
+    background: #0c6983;;
 }
 
 .edu-right,.exp-left {
@@ -709,7 +709,7 @@ span.font {
 }
 
 .education-info {
-    padding: 3.3em 0em;
+    padding: 8.8em 0em;
 }
 
 .back-shadow{-webkit-box-shadow: -3px 7px 39px -5px rgba(0,0,0,0);
@@ -722,11 +722,15 @@ span.font {
 }
 /*--//Experience--*/
 /*-- gallery --*/ 
-.gallery{background:#0c6983;}
+.gallery{background:#050006;}
 .gallery-grids.grid-mdl {
     margin-top: 2em;
 }
+.gallery-grids.third {
+    margin-top: 0.7px;
+}
 .gallery-box {
+    border: solid 2px white;
     display: block;
     overflow: hidden;
     width: 100%;
